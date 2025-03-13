@@ -1,0 +1,10 @@
+Tech Stack for AI Search Engine**
+| Component        | Tools / Technologies |
+|-----------------|---------------------|
+| **Web Crawling** | Scrapy, Apache Nutch, Selenium |
+| **Data Storage** | PostgreSQL, MongoDB, AWS S3 |
+| **Search Indexing** | Elasticsearch, FAISS, Pinecone |
+| **AI Models** | BERT, GPT-4, CLIP, Whisper |
+| **Frontend** | React.js, Next.js, TailwindCSS |
+| **Backend** | FastAPI, Flask, Node.js |
+| **Infrastructure** | AWS, Kubernetes, Redis, Cloudflare |

@@ -1,0 +1,11 @@
+Hii 
+Thanks for showing interest in this project. 
+This is a Genral Purpose AI powered Search Engine.
+------
+
+What your search engine will do:
+✅ AI-powered web crawling & indexing (to collect and organize web data)
+✅ AI-driven ranking algorithms (to provide the most relevant results)
+✅ Conversational AI search (like ChatGPT + Google)
+✅ Multimodal search (text, images, videos, documents)
+✅ Real-time information retrieval
